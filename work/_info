@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Downloads/AHB_APB-RTL-master
+vahbmaster
+Z0 !s110 1624002786
+!i10b 1
+!s100 bh[bnZHmPmMbQYe[kE:[13
+IS9S=e4>:aELAX@;EEf5X]1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/vlsi project
+w1623973558
+8D:/vlsi project/ahbmaster.v
+FD:/vlsi project/ahbmaster.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1624002786.000000
+!s107 D:/vlsi project/ahbmaster.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/vlsi project/ahbmaster.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vahbslave
+R0
+!i10b 1
+!s100 5ga5LAabWB[;`=[I6UKLO1
+I_Ri7T7b0YAV1m^J6[JOR:0
+R1
+R2
+w1624002784
+8D:/vlsi project/ahbslave.v
+FD:/vlsi project/ahbslave.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/vlsi project/ahbslave.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/vlsi project/ahbslave.v|
+!i113 1
+R5
+R6
+vapbif
+R0
+!i10b 1
+!s100 kZDNTC93WbW;_kJKR3Lge3
+I62EZMO0]GAXGZDiI5@_Tc0
+R1
+R2
+w1623968234
+8D:/vlsi project/apbif.v
+FD:/vlsi project/apbif.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/vlsi project/apbif.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/vlsi project/apbif.v|
+!i113 1
+R5
+R6
+vbridgetop
+R0
+!i10b 1
+!s100 @7CgA?_<7VBR:;O>aVI8a3
+I9h;2RJkR[TNO88cP6V08Q0
+R1
+R2
+w1623967568
+8D:/vlsi project/bridgetop.v
+FD:/vlsi project/bridgetop.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/vlsi project/bridgetop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/vlsi project/bridgetop.v|
+!i113 1
+R5
+R6
+vfsm
+R0
+!i10b 1
+!s100 eaG7Z[]7>4kF;?FM7^J4a2
+IZ2]HGkUcBcz6WDa3L2T_B3
+R1
+R2
+w1623970972
+8D:/vlsi project/fsm.v
+FD:/vlsi project/fsm.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/vlsi project/fsm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/vlsi project/fsm.v|
+!i113 1
+R5
+R6
+vtoptb
+R0
+!i10b 1
+!s100 9h0=Pi=>H9YgT7JEW=3W22
+IhSDNLoWjV_MMEF7^BhF:>0
+R1
+R2
+w1624002631
+8D:/vlsi project/toptb.v
+FD:/vlsi project/toptb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/vlsi project/toptb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/vlsi project/toptb.v|
+!i113 1
+R5
+R6
